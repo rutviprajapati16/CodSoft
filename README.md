@@ -34,3 +34,13 @@ A restaurant menu UI/UX project is the process of designing a menu that is both 
 ![image](https://github.com/rutviprajapati16/CodSoft/assets/97946004/8ab4df7e-7a64-43c1-b95b-367537ac0bba)
 
 
+# Task3_Internship
+
+An e-commerce website UI/UX project is the process of designing an online store that is both visually appealing and easy to use.
+
+**Figma Link:** https://www.figma.com/design/urZ4ylzk722JXMDzLpAZgg/Untitled?node-id=0%3A1&t=gMoQxrNLxx14En2Z-1
+
+![image](https://github.com/rutviprajapati16/CodSoft/assets/97946004/a54b9c6c-494a-4250-a238-9e1f1aa464fb)
+
+
+
