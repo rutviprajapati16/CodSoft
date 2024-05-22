@@ -25,3 +25,12 @@ A mobile app signup flow is the process of users creating an account and signing
 <img src="https://github.com/rutviprajapati16/Task1_Internship/assets/97946004/d76b8c70-2e1a-48f1-94fb-2f1d264c1a4c" height="500" width="300">
 
 
+# Task2_Internship
+
+A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use.
+
+**Figma Link:** https://www.figma.com/design/vlz7Bki7iFY7zP51qxYBVZ/Food-Ordering-App?node-id=0%3A1&t=8P4kde1GZCcXOHs6-1
+
+![image](https://github.com/rutviprajapati16/CodSoft/assets/97946004/8ab4df7e-7a64-43c1-b95b-367537ac0bba)
+
+
